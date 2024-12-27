@@ -1,0 +1,12 @@
+Django==5.0
+djangorestframework==3.14.0
+channels==4.0.0
+opencv-python==4.8.1.78
+numpy==1.26.2
+python-jwt==4.1.0
+django-cors-headers==4.3.1
+psycopg2-binary==2.9.9
+boto3==1.33.13
+python-dotenv==1.0.0
+drf-yasg==1.21.7
+djangorestframework-simplejwt==5.3.1
