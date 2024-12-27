@@ -29,7 +29,7 @@ dependencies:
   
   # UI Components
   flutter_svg: ^2.0.9
-  google_fonts: ^6.1.0
+  google_fonts: ^5.1.0
   flutter_screenutil: ^5.9.0
   
   # Authentication
